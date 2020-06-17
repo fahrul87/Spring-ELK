@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 9898
+
+logging:
+  file: C:/Users/f4hrul/Desktop/log/elk-stack.log 
